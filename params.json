@@ -1,0 +1,6 @@
+{
+  "name": "Purespot",
+  "tagline": "puredata and spotify API experiments",
+  "body": "### PureSpot\r\nA placeholder for spotify API experiments in Pure Data with https://github.com/residuum/PuRestJson\r\nYes, I was thinking of Captain Beefheart's \"Clear Spot\" when I named this.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
