@@ -1,0 +1,10 @@
+#N canvas 505 270 688 541 10;
+#X obj 251 227 json-encode;
+#X obj 251 296 json-decode;
+#X obj 251 254 t a a;
+#X msg 184 186 read /home/chip/Documents/sis.json;
+#X obj 325 322 print DONE;
+#X connect 0 0 2 0;
+#X connect 1 1 4 0;
+#X connect 2 0 1 0;
+#X connect 3 0 0 0;
